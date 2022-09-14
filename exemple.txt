@@ -5,3 +5,7 @@ ceci est ma deuxieme phrase
 ceci est la troisieme phrase a destination du merge sur la branch sentense 3
 
 new sentences, dire plus de choses
+
+Partie 2 : 
+
+blabla
