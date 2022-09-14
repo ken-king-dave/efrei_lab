@@ -1,3 +1,5 @@
 Hello guys ! Bien ou quoi 
 
 ceci est ma deuxieme phrase
+
+ceci est la troisieme phrase a destination du merge sur la branch sentense 3
