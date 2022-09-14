@@ -14,7 +14,8 @@ git commit --amend -m "first commit by efrei lab” pour modifier le nom du comm
 git commit —amend -c “” “le commit”  modifier un commit particulier 
 git log pour voir l’historique 
 git restore exemple.txt (restore le fichier a la version précédente )
-git tag -a "1.0.0" -m "version 1.0.0 started projeet “ (pour ajouter un tag history )
+git tag -a 1.0.0 -m "version 1.0.0 started projeet “ (pour ajouter un tag history )
 
 git show : permet de voir le répertoire 
 git push origin masteur : permet d'envoyer sur un dépot externe 
+

@@ -1,0 +1,17 @@
+[33mcommit d2377421bacdc6e205fe2a016a6d5ca9e499babc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: 1.0.2[m[33m)[m
+Author: Ken Dave <ken-dave-olaitan.djiwan@efrei.net>
+Date:   Wed Sep 14 11:51:32 2022 +0200
+
+    Add command git to Redme
+
+[33mcommit 66d098d3abadc65673ca9ff9ca9a41f94921ffbd[m[33m ([m[1;33mtag: 1.0.0[m[33m)[m
+Author: Ken Dave <ken-dave-olaitan.djiwan@efrei.net>
+Date:   Wed Sep 14 11:03:52 2022 +0200
+
+    first message in exemple.txt
+
+[33mcommit 77967cf79e9b17251871372129ba708aa6290490[m
+Author: Ken Dave <ken-dave-olaitan.djiwan@efrei.net>
+Date:   Wed Sep 14 10:47:13 2022 +0200
+
+    first commit by efrei lab
